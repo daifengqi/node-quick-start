@@ -1,2 +1,10 @@
-# node-quick-start
-Fast set up a typescript/jest project for Node.js
+# NODE-QUICK-START
+
+A template to start a Node.js project quickly.
+
+🌟 Feature by-default:
+
+- esmodule
+- typescript
+- jest
+- pnpm

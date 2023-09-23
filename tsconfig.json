@@ -3,12 +3,18 @@
     "target": "es2022",
     "module": "commonjs",
     "outDir": "dist",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "paths": {
+      "~/*": [
+        "./src/*"
+      ]
+    }
   },
   "include": [
-    "src"
+    "src",
+    "tests"
   ],
   "exclude": [
     "node_modules"
-  ]
+  ],
 }
