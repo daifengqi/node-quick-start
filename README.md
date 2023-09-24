@@ -8,3 +8,4 @@ A template to start a Node.js project quickly.
 - typescript
 - jest
 - pnpm
+- prettier
